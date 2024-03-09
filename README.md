@@ -1,10 +1,6 @@
-# SaaSbold – Tailwind CSS SaaS and Software Landing Page
+#  Tailwind CSS Landing Page
 
-![pinwheel](https://tailwindtemplates.co/_next/image?url=https%3A%2F%2Fapi.tailwindtemplates.co%2Fpublic%2Ffile%2Fsass-bold.png&w=1920&q=100)
-
-SaaSbold
-
-SaaSbold is a free template built on the utility-first CSS framework Tailwind. This template is meticulously designed for Software, SaaS, Business, and web app-focused landing pages. It provides all the necessary elements and features to kickstart your next project with a clean, high-quality, and refreshing design. Additionally, this Tailwind CSS template is fully responsive and highly customizable.
+Landing page s a free template built on the utility-first CSS framework Tailwind. This template is meticulously designed for Software, SaaS, Business, and web app-focused landing pages. It provides all the necessary elements and features to kickstart your next project with a clean, high-quality, and refreshing design. Additionally, this Tailwind CSS template is fully responsive and highly customizable.
 
 ## Features
 ### Based on Tailwind CSS
